@@ -22,3 +22,10 @@ Layering of the sprites was a large issue I ran into. Before I added them to dif
 **Installation**
 
 I should have included the entire Unity project inside of this GitHub project. Downloading it and opening it inside of Unity with Vuforia installed should allow for the user to access the project and make edits. Inside of the project, there are 2 folders known as "BuildAndroid" and "BuildIOS". These include builds for both platforms. Dragging the APK file in "BuildAndroid" should allow the project to run on Android devices, while uploading the XCode file to the XCode program with phone attached should allow for the user to move the file over and use the project on an IOS device. Vuforia may need to be installed seperately if user does not have it already. I used an Android device and dragged it into my device's file system, then opened the file called "Thor #337 Comic Book Cover" to install the application.
+
+
+**Videos**
+
+Demo: https://www.youtube.com/watch?v=ObZ-fjGgoTE
+
+Demo and Explanation of Development: https://www.youtube.com/watch?v=NkKosi4SgiU
